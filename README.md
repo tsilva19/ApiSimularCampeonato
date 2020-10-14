@@ -2,6 +2,12 @@
  
  O projeto consiste na criação de um sistema que simular campeonatos, criando com a linguagem Java com framework springBoot/Maven usando Banco de dados Mysql
  
+  ## Pré Requisito
+ 
+ - ter instalado mysql
+ - ter instalado maven
+ - ter instalado java jre
+ - configurar/trocar o password do mysql para 
  
  ## Get Started
  
@@ -10,6 +16,6 @@
  - mvn install
  - java -jar  target/apicampeonatobrasileiro-0.0.1-SNAPSHOT.jar
 
-URL do Swegger: http://localhost:5555/
+## URL do Swegger: http://localhost:5555/
 
 A documentação das APIS são publicadas neste endereço: http://localhost:5555/swagger-ui.html
