@@ -7,7 +7,7 @@
  - ter instalado mysql
  - ter instalado maven
  - ter instalado java jre
- - configurar/trocar user e o password no arquivo application.properties de acordo com seu ambiente mysql
+ - configurar/trocar user e o password no arquivo ApiSimularCampeonato/src/main/resources/application.properties de acordo com seu ambiente mysql
  
  ## Get Started
  
