@@ -5,10 +5,10 @@
  
  ## Get Started
  
- -git clone
- -cd ApiSimularCampeonato
- -mvn install
- -java -jar  target/apicampeonatobrasileiro-0.0.1-SNAPSHOT.jar
+ - git clone
+ - cd ApiSimularCampeonato
+ - mvn install
+ - java -jar  target/apicampeonatobrasileiro-0.0.1-SNAPSHOT.jar
 
 URL do Swegger: http://localhost:5555/
 
