@@ -1,4 +1,4 @@
- ##ApiSimularCampeonato
+ ## ApiSimularCampeonato
  
  O projeto consiste na criação de uma APIREST que simula campeonatos, criado emlinguagem Java com framework springBoot/Maven usando Banco de dados Mysql
  
